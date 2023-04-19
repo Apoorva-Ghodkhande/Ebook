@@ -5,8 +5,9 @@
 <head>
 <meta charset="ISO-8859-1">
 <title>EBook :Index title here</title>
+<%@include file="all_components/allCss.jsp"%>
 </head>
 <body>
-<h1>Hello World</h1>
+<%@include file="all_components/navbar.jsp"  %>>
 </body>
 </html>
